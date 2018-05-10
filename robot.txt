@@ -1,4 +1,4 @@
 User-agent: baiduspider
 Disallow: /about.jpg
 
-Sitemap: https://www.seohzz.com/sitemap.xml
+Sitemap: https://georgiechen.github.io/sitemap.xml
