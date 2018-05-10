@@ -1,6 +1,4 @@
-User-agent: *
-Disallow: /A/B/
-Disallow: /C/
-Disallow: /A/321.jpg
+User-agent: baiduspider
+Disallow: /about.jpg
 
 Sitemap: https://www.seohzz.com/sitemap.xml
